@@ -2,7 +2,7 @@
 OpenCV face detection<br>
 This program needs a database(.yml file) which contains the face data. This program won't run on itself.<br> 
 It needs a recognizer program which trains the data and creates a '.yml' file.<br>
-You will also need a lot of images of people you want to be detected by the program as the model needs a lot of data to improve the accuracy of the model.<br>
+You will also need a lot of images of people you want to be detected by the program as the model needs a lot of data to improve the accuracy of the model.<br>Arrange atleast 50 images for better results.
 update(13/9/19): I have added the recognition program in the git.<br>
 1)now to use the programs first create a folder(lets say FR) and place these two files inside folder. Name anything u want.<br>
 2)Create a new folder named 'images'.<br>
